@@ -34,3 +34,4 @@
 # User defined
 *.cbp
 *.layout
+*.depend
