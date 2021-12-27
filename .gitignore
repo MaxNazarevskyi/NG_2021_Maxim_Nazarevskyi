@@ -2,6 +2,11 @@
 *.d
 
 # Compiled Object files
+*.cbp
+*.layout
+*.depend
+*obj\*
+*bin\*
 *.slo
 *.lo
 *.o
