@@ -11,6 +11,9 @@
 *.lo
 *.o
 *.obj
+*\bin\*
+*.pdb
+*.ilk
 
 # Precompiled Headers
 *.gch
