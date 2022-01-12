@@ -14,16 +14,16 @@ int main()
             cout << a[i] << " ";
         }
         cout << endl;
-{
-    int b=0;
+    {
+    int b = 0;
     cout << "Your number = ";
     cin >> b;
     cout << "Updated massive: ";
-    for (int j = 0; j < 10; ++j) {
-        cout << b+a[j] << " ";
-}
-    return 0;
-}
-}
+        for (int j = 0; j < 10; ++j) {
+            cout << b + a[j] << " ";
+        }
+        return 0;
+    }
+  }
 
 
